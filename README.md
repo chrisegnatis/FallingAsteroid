@@ -1,6 +1,5 @@
-## FallingAsteroid
-# John Egnatis
-# December 2021
+# FallingAsteroid
+## John Egnatis | December 2021
 
 2D JavaScript Game
 
